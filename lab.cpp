@@ -113,9 +113,9 @@ void lab::check_result()
 }
 
 
-std::string lab::get_name()
+std::string seskinmvs::get_name()
 {
-  return std::string("Unknown People");
+  return std::string("Сеськин Михаил Васильевич");
 }
 
 
